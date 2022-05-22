@@ -1,0 +1,23 @@
+{
+  "name": "metaverse",
+  "version": "1.0.0",
+  "description": "Building an experimental metaverse using three.js, web3.js and solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crpdev/metaverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crpdev/metaverse/issues"
+  },
+  "homepage": "https://github.com/crpdev/metaverse#readme",
+  "dependencies": {
+    "three": "^0.140.2"
+  }
+}
