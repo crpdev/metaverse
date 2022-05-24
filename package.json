@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/crpdev/metaverse#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
     "three": "^0.140.2"
   }
 }
